@@ -175,6 +175,24 @@ function sendGitHubUpdatesToSubscribers() {
 <button id="submit-verification">Verify</button>
 ```
 ---
+### 🚫 Unsubscribe Email & Submission Button
+- The unsubscribe input field must have `name="unsubscribe_email"`.
+- The submit button must have `id="submit-unsubscribe"`.
+#### ✅ Example:
+```html
+<input type="email" name="unsubscribe_email" required>
+<button id="submit-unsubscribe">Unsubscribe</button>
+```
+---
+### 🚫 Unsubscribe Code Input & Submission Button
+- The unsubscribe code input field must have `name="unsubscribe_verification_code"`.
+- The submit button must have `id="verify-unsubscribe"`.
+#### ✅ Example:
+```html
+<input type="text" name="unsubscribe_verification_code">
+<button id="verify-unsubscribe">Verify</button>
+```
+---
 
 ## 📩 Email Content Guidelines
 
