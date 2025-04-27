@@ -20,8 +20,6 @@ Your objective is to implement the functionality in the **src/** directory while
 
 ✅ Implement a CRON job to send GitHub timeline updates every 5 minutes.  
 
-✅ Implement an unsubscribe feature where users can opt out via email verification.  
-
 ✅ Implement an unsubscribe feature where users can opt out via email verification.
 
 ✅ Implement `unsubscribe.php` to handle email unsubscription.
