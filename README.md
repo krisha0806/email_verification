@@ -207,6 +207,8 @@ function sendGitHubUpdatesToSubscribers() {
 
 ### 📩 Email Content Guidelines
 
+⚠️ Note: The Subject and Body of the email must strictly follow the formats below, including the exact HTML structure.
+
 #### ✅ GitHub Updates Email:
 - **Subject:** `Latest GitHub Updates`
 - **Body Format:**
@@ -216,7 +218,7 @@ function sendGitHubUpdatesToSubscribers() {
   <tr><th>Event</th><th>User</th></tr>
   <tr><td>Push</td><td>testuser</td></tr>
 </table>
-<p><a href="#" id="unsubscribe-button">Unsubscribe</a></p>
+<p><a href="unsubscribe_url" id="unsubscribe-button">Unsubscribe</a></p>
 ```
 ---
 ### ✅ Unsubscribe Confirmation Email:
