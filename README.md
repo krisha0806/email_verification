@@ -10,7 +10,7 @@ Your objective is to implement the functionality in the **src/** directory while
 
 ✅ **DO NOT** change function names or modify the file structure.  
 
-✅ **DO NOT** modify anything outside the **src/** folder.  
+✅ **DO NOT** modify anything outside the **src/** folder. You can add additional files if required inside **src** folder. 
 
 ✅ **DO NOT** hardcode emails; use `registered_emails.txt` as the database.  
 
