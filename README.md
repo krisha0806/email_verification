@@ -26,9 +26,11 @@ Your objective is to implement the functionality in the **src/** directory while
 
 ---
 
-⚠️ Important Note
+## ⚠️ Important Notes
 
 All form elements should always be visible on the page and should not be conditionally rendered. This ensures the assignment can be tested properly at the appropriate steps.
+
+**Recommended PHP version: 8.3**
 
 ---
 
