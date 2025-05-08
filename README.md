@@ -78,10 +78,6 @@ function sendVerificationEmail($email, $code) {
     // Send an email containing the verification code
 }
 
-function verifyCode($email, $code) {
-    // Check if the provided code matches the sent one
-}
-
 function fetchGitHubTimeline() {
     // Fetch latest data from https://www.github.com/timeline
 }
