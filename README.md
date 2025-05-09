@@ -30,6 +30,8 @@ Your objective is to implement the functionality in the **src/** directory while
 
 All form elements should always be visible on the page and should not be conditionally rendered. This ensures the assignment can be tested properly at the appropriate steps.
 
+Please ensure that if the base repository shows the original template repo, update it so that your repo's main branch is set as the base branch.
+
 **Recommended PHP version: 8.3**
 
 ---
