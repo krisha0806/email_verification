@@ -46,7 +46,9 @@ Please ensure that if the base repository shows the original template repo, upda
 
 ### 2️⃣ **Unsubscribe Mechanism**
 - Emails should include an **unsubscribe link**.
-- Clicking it generates a verification code, which is emailed.
+- Clicking it will take user to the unsubscribe page.
+- Users enter their email in a form.
+- A **6-digit numeric code** is generated and emailed to them.
 - Users enter the code to confirm unsubscription.
 
 ### 3️⃣ **GitHub Timeline Fetch**
