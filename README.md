@@ -25,7 +25,7 @@ Your objective is to implement the functionality in the **src/** directory while
 ✅ Implement `unsubscribe.php` to handle email unsubscription.
 
 ---
-## 📝 Submission Steps [ Non adherence this will cause disqualification ]
+## 📝 Submission Steps [ Non adherence to this will cause disqualification ]
 1. **Clone** the repository to your local machine.  
 2. **Create a new branch** from the `main` branch. **Do not** push code directly to `main`.  
 3. **Implement** the required features inside the `src/` directory.  
