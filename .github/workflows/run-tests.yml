@@ -2,7 +2,6 @@ name: Run PHP and Playwright Tests with Mailpit
 
 on:
   pull_request:
-    branches: [ main ]
 
 jobs:
   test:
