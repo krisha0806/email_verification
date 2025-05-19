@@ -34,7 +34,7 @@ Your objective is to implement the functionality in the **src/** directory while
    - **Do not raise multiple PRs.**  
    - **Do not add multiple commits to a PR after submission.**  
 6. **Failure to follow these instructions will result in disqualification.**  
-7. **Wait** for your submission to be reviewed.
+7. **Wait** for your submission to be reviewed. Do not merge the PR.
 
 ---
 
