@@ -38,9 +38,9 @@ function fetchGitHubTimeline() {
 }
 
 /**
- * Format GitHub timeline data.
+ * Format GitHub timeline data. Returns a valid HTML sting.
  */
-function formatGitHubData($data) {
+function formatGitHubData(array $data): string {
     // TODO: Implement this function
 }
 
