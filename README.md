@@ -26,13 +26,14 @@ Your objective is to implement the functionality in the **src/** directory while
 
 ---
 ## 📝 Submission Steps [ Non adherence to this will cause disqualification ]
-1. **Clone** the repository to your local machine.  
+1. **Clone** the repository to your local machine.  ⚠️ Do not **Fork** the repo to your personal profile.
 2. **Create a new branch** from the `main` branch. **Do not** push code directly to `main`.  
 3. **Implement** the required features inside the `src/` directory.  
 4. **Push** your code to your **branch** (not `main`).  
 5. **Raise a Pull Request (PR) only once** against the `main` branch when all your code is finalized.  
    - **Do not raise multiple PRs.**  
    - **Do not add multiple commits to a PR after submission.**  
+   - **Do not raise the PR from a Forked repo against this repo**
 6. **Failure to follow these instructions will result in disqualification.**  
 7. **Wait** for your submission to be reviewed. Do not merge the PR.
 
