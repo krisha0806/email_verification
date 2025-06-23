@@ -1,0 +1,14 @@
+Array
+(
+    [from] => MAIL FROM:<no-reply@example.com>
+    [to] => RCPT TO:<testuser@example.com>
+    [subject] => 
+    [body] => Date: Mon, 23 Jun 2025 05:48:46 +0000
+Subject: Your Verification Code
+To: testuser@example.com
+From: no-reply@example.com
+Content-Type: text/html
+
+<p>Your verification code is: <strong>676863</strong></p>
+
+)
